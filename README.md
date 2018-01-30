@@ -1,4 +1,4 @@
-# Exploracion de Ambientes Virtual 3D en Realidad Virtual inclusivo para personas con Discapacidad Visual
+# Exploracion de Ambientes Virtuales 3D en Realidad Virtual inclusivo para personas con Discapacidad Visual
 
 ## Contenido
 1. Integrantes
