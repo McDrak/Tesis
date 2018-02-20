@@ -1,0 +1,225 @@
+**Tesis -- Exploración de Ambientes Virtuales 3D en Realidad Virtual
+inclusivo para personas con Discapacidad Visual.**
+
+1.  **Platform**: PC/VR
+
+2.  **Genre**: Escape Room (?)
+
+3.  **Player Design**:
+
+    -   Invitation: \[TODO\]
+
+    -   Number of players: 1
+
+    -   Role: War Prisoner.
+
+    -   Pattern: Single Player vs Game
+
+4.  **Objective Design**:
+
+    -   Objective Generalization: Escape.
+
+    -   Objective: Escape from a Nazi Laboratory passing through 3
+        different levels, each level has its own objectives.
+
+5.  **Procedure Design**:
+
+    -   Left Joystick: The player moves around the map of each level.
+
+    -   Right Joystick/VR Headset: The player rotates de angle of
+        vision.
+
+    -   Right Trigger Button: Pick up/Use secondary object.
+
+    -   Left Trigger Button: Use primary object.
+
+    -   Sound: When a key object is near, a representative sound of that
+        objects starts playing. When receiving damage, a representative
+        sound of the source will be played.
+
+    -   Vibration: Indicates when a key object is inside the Field of
+        View and/or the object is within reaching distance, the
+        intensity will change depending on the distance from the Field
+        of View range. When the player receives damage, a hard intensity
+        vibration will be felt.
+
+6.  **Rules Design**:
+
+    -   If "The Voices" touch the player, he will return to the nearest
+        checkpoint and loses sanity.
+
+    -   If the player touches an object imbued with electricity, he will
+        return to the nearest checkpoint.
+
+    -   If the player touches an object imbued with fire, he loses
+        health.
+
+    -   If the player uses the primary object to disperse "The Voices",
+        he loses sanity.
+
+    -   If the player drinks water, he restores health.
+
+    -   To open a door the player needs to use a key that matches the
+        keyhole.
+
+    -   If the player loses sanity, his vision will be blurred around
+        the edges with darkness until the player's vision is completely
+        gone.
+
+    -   Each level has a maximum completion time before "The Voices"
+        flood it.
+
+    -   If the player maintains his focus range on a corpse, he loses
+        sanity over time.
+
+    -   If the player touches an object representing lore, he restores
+        sanity.
+
+7.  **Resource Design**:
+
+    -   Health: Amount of health that a player has. It can be affected
+        by electricity or fire and restored by water. When health is
+        affected the Field of View is reduced until it narrows to the
+        center.
+
+    -   Sanity: Represents the madness level a player currently has. It
+        can be affected by using the primary object. When sanity is
+        affected, key object's sounds can be distorted and "The Voices"
+        come closer faster to the player, additionally the player's
+        vision starts blurring around the edges with darkness.
+
+    -   Inventory: Represents the object a player has in each hand. He
+        can't carry any other object. Additionally, the player will
+        carry a keyring for each level keys.
+
+8.  **Conflict Design**:
+
+    -   Maintain health and sanity in order pass through every level in
+        the Prison and escape.
+
+    -   Obstacles:
+
+        -   Locked Doors, across each level the player will find doors
+            that need certain type of key to be opened.
+
+        -   End-Level Puzzle, at the end of each level there will be a
+            puzzle to be solved so that the final door can be opened.
+
+    -   Dilemmas:
+
+        -   Lore, across each level the player will find additional
+            objects that can provide knowledge of each level and clues
+            to solve puzzles easier or keys locations. The player is
+            free to keep searching for these items after or at the same
+            time he is finding the key object. Additionally, the player
+            will restore sanity with each lore object found.
+
+9.  **Boundaries Design**:
+
+    -   Physical:
+
+        -   Sight, the player will lose sight in time.
+
+        -   Doors.
+
+    -   Conceptual
+
+        -   Puzzles.
+
+10. **Outcome Design**:
+
+    -   The player escapes from the Laboratory.
+
+11. **Challenge Design**
+
+    -   Challenging Activity
+
+        -   Navigating through each level faster enough so that "The
+            Voices" won't catch the player.
+
+    -   Merging Actions
+
+        -   "The Voices" emerge.
+
+        -   Fire and Electricity zones emerge.
+
+    -   Concentration
+
+        -   The player must be aware of each sound so that he doesn't
+            get past a key object or a door without noticing.
+
+12. **Play Design**
+
+    -   The play can be categorized as *ilinx* (Caillois, 1961), where
+        the game alters the perception of the player as it invalidates
+        the sense of sight.
+
+13. **Premise Design**
+
+    -   The game is set on World War II German Nazi Laboratory, which
+        has been recently attacked by the Allied Forces. The player
+        plays an anonymous war prisoner that has been subject to various
+        experiments. The story begins when a bomb that is dropped on the
+        laboratory where the main character is a prisoner. However, the
+        price for a chance of freedom came high as the main character
+        realizes that the bombing not only left him as the sole human
+        survivor but there's something else.
+
+14. **Character Design**
+
+    -   Protagonist
+
+        -   Predefined Character.
+
+        -   Name: Jashel Rosner.
+
+        -   Backstory: Owner of one of the finest tailor shops in
+            Düsseldorf, until he and his family got caught on the hidden
+            attic of the establishment. After being one of the few
+            survivors of his block on Emslandlager, he got transferred
+            to Sachsenhausen where he was subject of immunization
+            experiments.
+
+        -   Motivation: Hard worker, religious and family centered.
+            After he receives his opportunity to be free from the
+            laboratory, he has to deal with the fact of losing one of
+            his senses, stress of escaping alive and faith to reunite
+            with his family.
+
+    -   Antagonist
+
+        -   Predefined Character.
+
+        -   Name: The Voices.
+
+        -   Backstory: Its origin is unknown. Represents the loss of
+            Rosner's sanity.
+
+15. **Story Design**
+
+    -   Jashel Rosner was one of the finest tailors in Düsseldorf. Due
+        to his religion and beliefs he was pursued and captured by the
+        German Nazi Army and taken to the Emslandlager labor camp. After
+        being one of the few survivors in his block he was transferred
+        to Sachsenhausen, a concentration camp known by certain
+        experimental practices on prisoners. The only thing that kept
+        him alive through 2 years of experiments was his fate in
+        reuniting again with his family. Its 1945, the Allied air force
+        starts an attack using bombs and for Rosner's luck one of them
+        dropped at the exact moment a new round of experiments was going
+        to start on him or that was what he thought. That bomb left him
+        unconscious for some time, the moment he wakes up he can hear
+        water flooding near him, he feels that his left arm is untied as
+        he can move it freely. Suddenly he opens his eyes, but
+        everything is still dark, thinking it's because the bag that the
+        guards usually put on him as he was dragged to the
+        experimentation room, the moment he reaches his head he feels
+        the bag is gone and his eyes are wide opened. "Maybe the lights
+        are gone", he thought while trying to be optimistic. He manages
+        to untie his right hand and when he finished to untie his feet
+        he fell to the ground. The floor is flooded and the water cold,
+        upon getting up he feels that something is touching his right
+        arm, slowly he grabs it and notices it's the dead corpse of the
+        main scientist. "Those glasses\... I could never stand them", he
+        whispers. Crawling he reaches the main door, but it's locked,
+        "Ok, let's find the main key".
