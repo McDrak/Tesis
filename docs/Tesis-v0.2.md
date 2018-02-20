@@ -156,14 +156,15 @@ inclusivo para personas con Discapacidad Visual.**
 
 13. **Premise Design**
 
-    -   The game is set on World War II German Nazi Laboratory, which
+    -   The game is set on a World War II German Nazi Laboratory, which
         has been recently attacked by the Allied Forces. The player
-        plays an anonymous war prisoner that has been subject to various
-        experiments. The story begins when a bomb that is dropped on the
-        laboratory where the main character is a prisoner. However, the
-        price for a chance of freedom came high as the main character
-        realizes that the bombing not only left him as the sole human
-        survivor but there's something else.
+        plays as an anonymous war prisoner that has been subject to
+        various experiments. The story begins when a bomb is dropped on
+        the laboratory where the main character is prisoner. However,
+        the price for freedom came at a higher expense than what he
+        thought. The main character realizes that the bombing not only
+        left him as the sole human survivor, but there's something else
+        that won't let him go so easily.
 
 14. **Character Design**
 
@@ -182,9 +183,9 @@ inclusivo para personas con Discapacidad Visual.**
 
         -   Motivation: Hard worker, religious and family centered.
             After he receives his opportunity to be free from the
-            laboratory, he has to deal with the fact of losing one of
-            his senses, stress of escaping alive and faith to reunite
-            with his family.
+            laboratory, he must deal with the fact of losing one of his
+            senses, stress of escaping alive and faith to reunite with
+            his family.
 
     -   Antagonist
 
@@ -207,19 +208,8 @@ inclusivo para personas con Discapacidad Visual.**
         reuniting again with his family. Its 1945, the Allied air force
         starts an attack using bombs and for Rosner's luck one of them
         dropped at the exact moment a new round of experiments was going
-        to start on him or that was what he thought. That bomb left him
-        unconscious for some time, the moment he wakes up he can hear
-        water flooding near him, he feels that his left arm is untied as
-        he can move it freely. Suddenly he opens his eyes, but
-        everything is still dark, thinking it's because the bag that the
-        guards usually put on him as he was dragged to the
-        experimentation room, the moment he reaches his head he feels
-        the bag is gone and his eyes are wide opened. "Maybe the lights
-        are gone", he thought while trying to be optimistic. He manages
-        to untie his right hand and when he finished to untie his feet
-        he fell to the ground. The floor is flooded and the water cold,
-        upon getting up he feels that something is touching his right
-        arm, slowly he grabs it and notices it's the dead corpse of the
-        main scientist. "Those glasses\... I could never stand them", he
-        whispers. Crawling he reaches the main door, but it's locked,
-        "Ok, let's find the main key".
+        to start on him. That bomb left him unconscious for some time,
+        until a crack on the water system generates a flood on the room.
+        The moment when the water rises enough to touch Rosner's feet
+        makes him snap and wake up. The light bulb makes him dazzle for
+        a while.
