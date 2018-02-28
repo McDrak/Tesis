@@ -205,11 +205,20 @@ inclusivo para personas con Discapacidad Visual.**
         to Sachsenhausen, a concentration camp known by certain
         experimental practices on prisoners. The only thing that kept
         him alive through 2 years of experiments was his fate in
-        reuniting again with his family. Its 1945, the Allied air force
-        starts an attack using bombs and for Rosner's luck one of them
-        dropped at the exact moment a new round of experiments was going
-        to start on him. That bomb left him unconscious for some time,
-        until a crack on the water system generates a flood on the room.
-        The moment when the water rises enough to touch Rosner's feet
-        makes him snap and wake up. The light bulb makes him dazzle for
-        a while.
+        reuniting again with his family again. Its 1945, the Allied air
+        force starts an attack using bombs and for Rosner's luck one of
+        them dropped at the exact moment a new round of experiments was
+        going to start on him. That bomb left him unconscious for some
+        time, until a crack on the water system generates a flood on the
+        room. The moment when the water rises enough to touch Rosner's
+        feet makes him snap and wake up. The light bulb makes him dazzle
+        for a while. He realizes that everyone on the room is dead
+        except for him and before someone crosses the door he must
+        escape. Rosner hears something in the distance, "Are those
+        screams?", he asks himself. Luckily for him, the restrains on
+        his left hand were ripped apart without any damage. He proceeds
+        to untie his left hand and feet. Water is raising fast and he
+        must move quickly if he wants to leave the room alive, because
+        electricity controls are at his hips height and currently the
+        water level is currently halfway of his shinbone. The only
+        problem is that the electricity controls are located on the
