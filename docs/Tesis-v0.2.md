@@ -221,4 +221,15 @@ inclusivo para personas con Discapacidad Visual.**
         must move quickly if he wants to leave the room alive, because
         electricity controls are at his hips height and currently the
         water level is currently halfway of his shinbone. The only
-        problem is that the electricity controls are located on the
+        problem is that the electricity controls are located on the side
+        room where scientists were monitoring his reactions to the
+        experiments. He manages to unlock his right hand and his feet
+        after that. The experiment director was floating just in front
+        of him as he finally got up from the chair.
+
+    -   (va a la Puerta)(va a la otra Puerta)(revisa al doctor)(revisa
+        el laboratorio y termina revisando al guardia)(abre la puerta y
+        encuentra los otros cuerpos)(encuentra que donde debería estar
+        el control de electricidad hay una pila de rocas por lo q es
+        imposible de apagar)(después de buscar encuentra la palanca que
+        abre la puerta principal)
