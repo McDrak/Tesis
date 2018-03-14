@@ -232,4 +232,16 @@ inclusivo para personas con Discapacidad Visual.**
         encuentra los otros cuerpos)(encuentra que donde debería estar
         el control de electricidad hay una pila de rocas por lo q es
         imposible de apagar)(después de buscar encuentra la palanca que
-        abre la puerta principal)
+        abre la puerta principal)( la palanca se rompa y el jugador se
+        queda con una barra como inventario )
+
+    -   ( al salir encuentra que la siguiente zona son oficinas )( hay
+        oficinas en llamas )( aparecen las voces de manera mas agresiva
+        pero al jugador se le cae la barra lo cual disipan las voces
+        temporalmente )( tiene la posibilidad de salir por 2 pasillos,
+        al acercarse al de la derecha vera que tiene una pared
+        derrumbada por lo que es imposible salir por ahí )( por la otra
+        tiene que buscar como apagar un incendio que no lo dejara pasar
+        )( encuentra un balde y tiene que volver al laboratorio para
+        llenarlo y después usarlo en la puerta )( después de realizarlo
+        3 veces el incendio se apaga )
