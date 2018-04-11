@@ -1,13 +1,24 @@
 **Tesis -- Exploración de Ambientes Virtuales 3D en Realidad Virtual
 inclusivo para personas con Discapacidad Visual.**
 
-1.  **Platform**: PC/VR
+1.  **Purpose:** The purpose of the game is to give an immersive
+    experience to the player, where his/her field of vision will
+    constantly shrink until the player is forced to play being
+    completely blind.
 
-2.  **Genre**: Escape Room (?)
+2.  **Platform**: PC / VR
 
-3.  **Player Design**:
+3.  **Genre**: Survival / Room Escape
 
-    -   Invitation: \[TODO\]
+4.  **Player Design**:
+
+    -   Invitation: The sound of rain can be heard in the background. A
+        deep voice screams, "It's time Jashel, get up and let's go". The
+        sound of locks and jail bars is heard. The selection screen
+        appears and the options are: "New Game", "Load Game",
+        Difficulty". If the game is started in "special mode", each
+        option and values of the selection screen is communicated via
+        text-to-speech.
 
     -   Number of players: 1
 
@@ -15,14 +26,14 @@ inclusivo para personas con Discapacidad Visual.**
 
     -   Pattern: Single Player vs Game
 
-4.  **Objective Design**:
+5.  **Objective Design**:
 
     -   Objective Generalization: Escape.
 
     -   Objective: Escape from a Nazi Laboratory passing through 3
-        different levels, each level has its own objectives.
+        different levels. Each level has its own objectives.
 
-5.  **Procedure Design**:
+6.  **Procedure Design**:
 
     -   Left Joystick: The player moves around the map of each level.
 
@@ -43,7 +54,7 @@ inclusivo para personas con Discapacidad Visual.**
         of View range. When the player receives damage, a hard intensity
         vibration will be felt.
 
-6.  **Rules Design**:
+7.  **Rules Design**:
 
     -   If "The Voices" touch the player, he will return to the nearest
         checkpoint and loses sanity.
@@ -75,7 +86,7 @@ inclusivo para personas con Discapacidad Visual.**
     -   If the player touches an object representing lore, he restores
         sanity.
 
-7.  **Resource Design**:
+8.  **Resource Design**:
 
     -   Health: Amount of health that a player has. It can be affected
         by electricity or fire and restored by water. When health is
@@ -92,7 +103,7 @@ inclusivo para personas con Discapacidad Visual.**
         can't carry any other object. Additionally, the player will
         carry a keyring for each level keys.
 
-8.  **Conflict Design**:
+9.  **Conflict Design**:
 
     -   Maintain health and sanity in order pass through every level in
         the Prison and escape.
@@ -107,14 +118,14 @@ inclusivo para personas con Discapacidad Visual.**
 
     -   Dilemmas:
 
-        -   Lore, across each level the player will find additional
+        -   Lore: across each level the player will find additional
             objects that can provide knowledge of each level and clues
             to solve puzzles easier or keys locations. The player is
             free to keep searching for these items after or at the same
             time he is finding the key object. Additionally, the player
             will restore sanity with each lore object found.
 
-9.  **Boundaries Design**:
+10. **Boundaries Design**:
 
     -   Physical:
 
@@ -126,11 +137,11 @@ inclusivo para personas con Discapacidad Visual.**
 
         -   Puzzles.
 
-10. **Outcome Design**:
+11. **Outcome Design**:
 
     -   The player escapes from the Laboratory.
 
-11. **Challenge Design**
+12. **Challenge Design**
 
     -   Challenging Activity
 
@@ -148,25 +159,25 @@ inclusivo para personas con Discapacidad Visual.**
         -   The player must be aware of each sound so that he doesn't
             get past a key object or a door without noticing.
 
-12. **Play Design**
+13. **Play Design**
 
     -   The play can be categorized as *ilinx* (Caillois, 1961), where
         the game alters the perception of the player as it invalidates
         the sense of sight.
 
-13. **Premise Design**
+14. **Premise Design**
 
     -   The game is set on a World War II German Nazi Laboratory, which
         has been recently attacked by the Allied Forces. The player
         plays as an anonymous war prisoner that has been subject to
         various experiments. The story begins when a bomb is dropped on
-        the laboratory where the main character is prisoner. However,
-        the price for freedom came at a higher expense than what he
-        thought. The main character realizes that the bombing not only
-        left him as the sole human survivor, but there's something else
-        that won't let him go so easily.
+        the laboratory where the main character is held prisoner.
+        However, the price for freedom came at a higher expense than
+        what he thought. The main character realizes that the bombing
+        not only left him as the sole human survivor, but there's
+        something else that won't let him go so easily.
 
-14. **Character Design**
+15. **Character Design**
 
     -   Protagonist
 
@@ -175,17 +186,17 @@ inclusivo para personas con Discapacidad Visual.**
         -   Name: Jashel Rosner.
 
         -   Backstory: Owner of one of the finest tailor shops in
-            Düsseldorf, until he and his family got caught on the hidden
-            attic of the establishment. After being one of the few
-            survivors of his block on Emslandlager, he got transferred
-            to Sachsenhausen where he was subject of immunization
-            experiments.
+            Düsseldorf, until he and his family got caught by the Nazi
+            army, inside their tailor shop's hidden attic. After being
+            one of the few survivors of his block on Börgermoor, he got
+            transferred to Sachsenhausen where he was subject to
+            immunization experiments.
 
         -   Motivation: Hard worker, religious and family centered.
-            After he receives his opportunity to be free from the
+            After he receives the opportunity to be free from the
             laboratory, he must deal with the fact of losing one of his
-            senses, stress of escaping alive and faith to reunite with
-            his family.
+            senses, stress of keeping himself alive and faith to reunite
+            with his family.
 
     -   Antagonist
 
@@ -196,52 +207,69 @@ inclusivo para personas con Discapacidad Visual.**
         -   Backstory: Its origin is unknown. Represents the loss of
             Rosner's sanity.
 
-15. **Story Design**
+16. **Story Design**
 
-    -   Jashel Rosner was one of the finest tailors in Düsseldorf. Due
-        to his religion and beliefs he was pursued and captured by the
-        German Nazi Army and taken to the Emslandlager labor camp. After
-        being one of the few survivors in his block he was transferred
-        to Sachsenhausen, a concentration camp known by certain
-        experimental practices on prisoners. The only thing that kept
-        him alive through 2 years of experiments was his fate in
-        reuniting again with his family again. Its 1945, the Allied air
-        force starts an attack using bombs and for Rosner's luck one of
-        them dropped at the exact moment a new round of experiments was
-        going to start on him. That bomb left him unconscious for some
-        time, until a crack on the water system generates a flood on the
-        room. The moment when the water rises enough to touch Rosner's
-        feet makes him snap and wake up. The light bulb makes him dazzle
-        for a while. He realizes that everyone on the room is dead
-        except for him and before someone crosses the door he must
-        escape. Rosner hears something in the distance, "Are those
-        screams?", he asks himself. Luckily for him, the restrains on
-        his left hand were ripped apart without any damage. He proceeds
-        to untie his left hand and feet. Water is raising fast and he
-        must move quickly if he wants to leave the room alive, because
-        electricity controls are at his hips height and currently the
-        water level is currently halfway of his shinbone. The only
-        problem is that the electricity controls are located on the side
-        room where scientists were monitoring his reactions to the
-        experiments. He manages to unlock his right hand and his feet
-        after that. The experiment director was floating just in front
-        of him as he finally got up from the chair.
+    -   Exposition
 
-    -   (va a la Puerta)(va a la otra Puerta)(revisa al doctor)(revisa
-        el laboratorio y termina revisando al guardia)(abre la puerta y
-        encuentra los otros cuerpos)(encuentra que donde debería estar
-        el control de electricidad hay una pila de rocas por lo q es
-        imposible de apagar)(después de buscar encuentra la palanca que
-        abre la puerta principal)( la palanca se rompa y el jugador se
-        queda con una barra como inventario )
+        -   Story takes place on Sachsenhausen, a German Nazi labor camp
+            specialized on human experimentation.
 
-    -   ( al salir encuentra que la siguiente zona son oficinas )( hay
-        oficinas en llamas )( aparecen las voces de manera mas agresiva
-        pero al jugador se le cae la barra lo cual disipan las voces
-        temporalmente )( tiene la posibilidad de salir por 2 pasillos,
-        al acercarse al de la derecha vera que tiene una pared
-        derrumbada por lo que es imposible salir por ahí )( por la otra
-        tiene que buscar como apagar un incendio que no lo dejara pasar
-        )( encuentra un balde y tiene que volver al laboratorio para
-        llenarlo y después usarlo en la puerta )( después de realizarlo
-        3 veces el incendio se apaga )
+        -   The story introduces Jashel Rosner, a Jew who used to be a
+            tailor and now is a prisoner on Sachsenhausen that also is
+            subject to their experiments.
+
+    -   Inciting Incident
+
+        -   A new round of experiments is about to start on Jashel.
+
+    -   Rising Action
+
+        -   While he is being locked to the test chair, the Allied
+            Forces start an air attack on the labor camp.
+
+        -   Jashel gets knocked out by a rock from the ceiling.
+
+    -   Climax
+
+        -   As Jashel wakes up, he notices that the scientists and
+            guards around him died in the bombing.
+
+        -   Jashel discovers that he is not entirely tied to the chair
+            as he realizes his right hand is free, giving him the
+            opportunity to escape.
+
+        -   As Jashel manages to leave the main lab, he hears what could
+            be described as voices screaming behind him.
+
+        -   The screams are getting closer as time passes.
+
+    -   Falling Action
+
+        -   Jashel manages to reach the final door of the labor camp.
+
+    -   Resolution
+
+        -   As he goes through the final door, a white light floods the
+            scene.
+
+        -   The sound of a medical pulse monitor can be heard.
+
+        -   A sound of someone losing his pulse and dying is heard.
+
+        -   An old voice of a doctor asks, "Time of the death?" and the
+            voice of a young nurse replies "4:20 AM, September the
+            2^nd^, 1993.".
+
+        -   Depending on the actions done by the player along the game,
+            the nurse adds another line.
+
+            -   Lost all his sanity + No lore recollected: Bad Ending.
+
+            -   Lost all his sanity + Some lore recollected: Neutral
+                Ending 1.
+
+            -   Had some sanity left + No lore recollected: Neutral
+                Ending 2.
+
+            -   Had some sanity left + Some lore recollected: Good
+                Ending.
