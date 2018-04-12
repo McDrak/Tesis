@@ -15,10 +15,9 @@ inclusivo para personas con Discapacidad Visual.**
     -   Invitation: The sound of rain can be heard in the background. A
         deep voice screams, "It's time Jashel, get up and let's go". The
         sound of locks and jail bars is heard. The selection screen
-        appears and the options are: "New Game", "Load Game",
-        Difficulty". If the game is started in "special mode", each
-        option and values of the selection screen is communicated via
-        text-to-speech.
+        appears, the options are: "New Game", "Load Game", Difficulty".
+        If the game is started in "Special Mode", each option and values
+        of the selection screen is communicated via text-to-speech.
 
     -   Number of players: 1
 
