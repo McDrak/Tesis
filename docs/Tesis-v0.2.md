@@ -1,5 +1,5 @@
-**Tesis -- Exploración de Ambientes Virtuales 3D en Realidad Virtual
-inclusivo para personas con Discapacidad Visual.**
+**Propuesta de Tesis -- Exploración de Ambientes Virtuales 3D en
+Realidad Virtual inclusivo para personas con Discapacidad Visual.**
 
 1.  **Purpose:** The purpose of the game is to give an immersive
     experience to the player, where his/her field of vision will
@@ -21,7 +21,7 @@ inclusivo para personas con Discapacidad Visual.**
 
     -   Number of players: 1
 
-    -   Role: War Prisoner.
+    -   Role: Prisoner.
 
     -   Pattern: Single Player vs Game
 
@@ -29,7 +29,7 @@ inclusivo para personas con Discapacidad Visual.**
 
     -   Objective Generalization: Escape.
 
-    -   Objective: Escape from a Nazi Laboratory passing through 3
+    -   Objective: Escape from a Nazi Labor Camp passing through 3
         different levels. Each level has its own objectives.
 
 6.  **Procedure Design**:
@@ -89,14 +89,14 @@ inclusivo para personas con Discapacidad Visual.**
 
     -   Health: Amount of health that a player has. It can be affected
         by electricity or fire and restored by water. When health is
-        affected the Field of View is reduced until it narrows to the
-        center.
+        affected the Field of View is blurred in a red tint until it
+        narrows to the center.
 
     -   Sanity: Represents the madness level a player currently has. It
         can be affected by using the primary object. When sanity is
         affected, key object's sounds can be distorted and "The Voices"
         come closer faster to the player, additionally the player's
-        vision starts blurring around the edges with darkness.
+        vision starts reducing around the edges with darkness.
 
     -   Inventory: Represents the object a player has in each hand. He
         can't carry any other object. Additionally, the player will
@@ -105,7 +105,7 @@ inclusivo para personas con Discapacidad Visual.**
 9.  **Conflict Design**:
 
     -   Maintain health and sanity in order pass through every level in
-        the Prison and escape.
+        the Labor Camp and escape.
 
     -   Obstacles:
 
@@ -166,7 +166,7 @@ inclusivo para personas con Discapacidad Visual.**
 
 14. **Premise Design**
 
-    -   The game is set on a World War II German Nazi Laboratory, which
+    -   The game is set on a World War II German Nazi Labor Camp, which
         has been recently attacked by the Allied Forces. The player
         plays as an anonymous war prisoner that has been subject to
         various experiments. The story begins when a bomb is dropped on
@@ -256,8 +256,8 @@ inclusivo para personas con Discapacidad Visual.**
         -   A sound of someone losing his pulse and dying is heard.
 
         -   An old voice of a doctor asks, "Time of the death?" and the
-            voice of a young nurse replies "4:20 AM, September the
-            2^nd^, 1993.".
+            voice of a young nurse replies "4:20[^1] AM, September the
+            2^nd^[^2], 1993[^3].".
 
         -   Depending on the actions done by the player along the game,
             the nurse adds another line.
@@ -272,3 +272,9 @@ inclusivo para personas con Discapacidad Visual.**
 
             -   Had some sanity left + Some lore recollected: Good
                 Ending.
+
+[^1]: Easter Egg \#1.
+
+[^2]: Easter Egg \#2 -- WW2 end date.
+
+[^3]: Easter Egg \#3 -- Games Designer's Birth Year.
