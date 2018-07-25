@@ -1,4 +1,4 @@
-# Project La Forge - 3D Virtual Environments Exploration, inclusive for Visually Impaired People using VR
+# La Forge Project - 3D Virtual Environments Exploration, inclusive for Visually Impaired People using VR
 
 ## Content
 1. Members
