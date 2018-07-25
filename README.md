@@ -15,7 +15,9 @@ The purpose of the game is to give an immersive experience to the player, where 
 ### 3. State of the Project
 + ~~Graduate Project Proposal (Done)~~
 + ~~Graduate Project Aproval (APROVED!!)~~
-+ Change of Purpose (Currently adjusting the Design Document for Magister Degree Project Proposal)
++ Change of Purpose (Currently adjusting the Design Document for Magister Degree Project Proposal) *
 
 ### 4. Name Justification
 "La Forge" comes from [Geordi La Forge](https://en.wikipedia.org/wiki/Geordi_La_Forge) a [Star Trek: The Next Generation](https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation) character who has been blind since birth and uses technological devices to allow him to see (That are very similar to nowadays VR's HMDs).
+
+###### \*Due to the number of members requirement not fulfilled before the Graduate Project Confirmation deadline i had to switch project and change the purpose of this project.
