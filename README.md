@@ -1,11 +1,21 @@
-# Exploracion de Ambientes Virtuales 3D en Realidad Virtual inclusivo para personas con Discapacidad Visual
+# Project La Forge - 3D Virtual Environments Exploration, inclusive for Visually Impaired People using VR
 
-## Contenido
-1. Integrantes
-2. El Proyecto
+## Content
+1. Members
+2. The Project
+3. State of the Project
+4. Name Justification
 
-### 1. Integrantes
+### 1. Members
 - Alejandro Guayara
 
-### 2. El Proyecto
-El proyecto consiste en un juego para dispositivos de realidad virtual (VR) el cual inhabilitará la vista del jugador de manera progresiva, para así crear situaciones en las que el jugador se verá obligado a depender sólo de su oído y tacto (vibraciones de respuesta de los controles) para desarrollar la historia del juego, resolver acertijos y escapar de habitaciones. Este proyecto aún está en etapa de propuesta, aún no está confirmado.
+### 2. The Project
+The purpose of the game is to give an immersive experience to the player, where his/her field of vision will constantly shrink until the player is forced to play being completely blind. At that stage, the player should trust on his hearing and touch (Through joystick vibrations) senses to follow the storyline, solve puzzles and escape rooms.
+
+### 3. State of the Project
++ ~~Graduate Project Proposal (Done)~~
++ ~~Graduate Project Aproval (APROVED!!)~~
++ Change of Purpose (Currently adjusting the Design Document for Magister Degree Project Proposal)
+
+### 4. Name Justification
+"La Forge" comes from [Geordi La Forge](https://en.wikipedia.org/wiki/Geordi_La_Forge) a [Star Trek: The Next Generation](https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation) character who has been blind since birth and uses technological devices to allow him to see (That are very similar to nowadays VR's HMDs).
